@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1419952699 source:d:\programmes\programmation\c++\stick_hero\main.cpp
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	<ctime>
+	<SFML/Audio.hpp>
+	<cmath>
+	"Texte.h"
+	"Perso.h"
+	<string>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1419534563 d:\programmes\programmation\c++\stick_hero\perso.h
+	<SFML/Graphics.hpp>
+	"Texte.h"
+
+1419546001 source:d:\programmes\programmation\c++\stick_hero\perso.cpp
+	"Perso.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+	<cmath>
+	"Texte.h"
+
+1419420172 d:\programmes\programmation\c++\stick_hero\texte.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<string>
+
+1419420050 source:d:\programmes\programmation\c++\stick_hero\texte.cpp
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	"Texte.h"
+	<string>
+
